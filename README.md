@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">An IIT Delhi graduate and a passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish4870&label=Profile%20views&color=0e75b6&style=flat" alt="ashish4870" /> </p>
 
